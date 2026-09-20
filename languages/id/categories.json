@@ -1,0 +1,27 @@
+{
+  "language": "id",
+  "contentVersion": 1,
+  "categories": [
+    { "key": "animals",    "label": "Hewan",              "emoji": "🐘" },
+    { "key": "food",       "label": "Makanan & Minuman",  "emoji": "🍎" },
+    { "key": "nature",     "label": "Alam",               "emoji": "🌳" },
+    { "key": "body",       "label": "Tubuh",              "emoji": "✋" },
+    { "key": "home",       "label": "Rumah",              "emoji": "🏠" },
+    { "key": "clothing",   "label": "Pakaian",            "emoji": "👕" },
+    { "key": "travel",     "label": "Perjalanan",         "emoji": "✈️" },
+    { "key": "city",       "label": "Kota",               "emoji": "🏙️" },
+    { "key": "school",     "label": "Sekolah",            "emoji": "📚" },
+    { "key": "work",       "label": "Pekerjaan",          "emoji": "💼" },
+    { "key": "family",     "label": "Keluarga",           "emoji": "👨‍👩‍👧" },
+    { "key": "time",       "label": "Waktu",              "emoji": "🕒" },
+    { "key": "weather",    "label": "Cuaca",              "emoji": "🌦️" },
+    { "key": "colors",     "label": "Warna",              "emoji": "🎨" },
+    { "key": "sports",     "label": "Olahraga",           "emoji": "⚽" },
+    { "key": "music",      "label": "Musik",              "emoji": "🎵" },
+    { "key": "science",    "label": "Sains",              "emoji": "🔬" },
+    { "key": "technology", "label": "Teknologi",          "emoji": "💻" },
+    { "key": "emotions",   "label": "Perasaan",           "emoji": "😊" },
+    { "key": "actions",    "label": "Tindakan",           "emoji": "🏃" },
+    { "key": "qualities",  "label": "Sifat",              "emoji": "✨" }
+  ]
+}

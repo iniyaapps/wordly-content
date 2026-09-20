@@ -1,0 +1,807 @@
+{
+  "language": "ko",
+  "contentVersion": 1,
+  "updatedAt": "2026-09-19",
+  "words": [
+    {
+      "word": "고양이",
+      "category": "animals",
+      "difficulty": 3,
+      "frequency": 1300,
+      "meaning": "집에서 기르는 털이 있는 작은 동물.",
+      "hint": "야옹 하고 운다.",
+      "emoji": "🐈"
+    },
+    {
+      "word": "개",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 1000,
+      "meaning": "짖는 충실한 네 발 동물.",
+      "hint": "사람의 가장 좋은 친구.",
+      "emoji": "🐕"
+    },
+    {
+      "word": "물고기",
+      "category": "animals",
+      "difficulty": 3,
+      "frequency": 1600,
+      "meaning": "물속에 살고 지느러미가 있는 동물.",
+      "hint": "지느러미로 헤엄친다.",
+      "emoji": "🐟"
+    },
+    {
+      "word": "새",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 1900,
+      "meaning": "깃털과 날개가 있는 동물.",
+      "hint": "대부분 하늘을 난다.",
+      "emoji": "🐦"
+    },
+    {
+      "word": "말",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 1700,
+      "meaning": "사람이 타는 큰 동물.",
+      "hint": "빨리 달린다.",
+      "emoji": "🐎"
+    },
+    {
+      "word": "코끼리",
+      "category": "animals",
+      "difficulty": 4,
+      "frequency": 4300,
+      "meaning": "긴 코가 있는 아주 큰 회색 동물.",
+      "hint": "육지에서 가장 큰 동물.",
+      "emoji": "🐘"
+    },
+    {
+      "word": "호랑이",
+      "category": "animals",
+      "difficulty": 4,
+      "frequency": 3600,
+      "meaning": "검은 줄무늬가 있는 큰 야생 고양잇과 동물.",
+      "hint": "줄무늬 큰 고양이.",
+      "emoji": "🐅"
+    },
+    {
+      "word": "원숭이",
+      "category": "animals",
+      "difficulty": 4,
+      "frequency": 3200,
+      "meaning": "나무를 잘 타는 팔이 긴 동물.",
+      "hint": "나무 타기를 좋아한다.",
+      "emoji": "🐒"
+    },
+    {
+      "word": "사자",
+      "category": "animals",
+      "difficulty": 2,
+      "frequency": 2900,
+      "meaning": "동물의 왕이라고 불리는 큰 고양잇과 동물.",
+      "hint": "동물의 왕.",
+      "emoji": "🦁"
+    },
+    {
+      "word": "토끼",
+      "category": "animals",
+      "difficulty": 2,
+      "frequency": 4400,
+      "meaning": "귀가 길고 깡충깡충 뛰는 작은 동물.",
+      "hint": "긴 귀, 깡충 뛰기.",
+      "emoji": "🐇"
+    },
+    {
+      "word": "나비",
+      "category": "animals",
+      "difficulty": 2,
+      "frequency": 6200,
+      "meaning": "크고 알록달록한 날개를 가진 곤충.",
+      "hint": "예전에는 애벌레였다.",
+      "emoji": "🦋"
+    },
+    {
+      "word": "거북이",
+      "category": "animals",
+      "difficulty": 4,
+      "frequency": 6600,
+      "meaning": "등에 딱딱한 껍데기가 있는 느린 동물.",
+      "hint": "아주 천천히 걷는다.",
+      "emoji": "🐢"
+    },
+    {
+      "word": "밥",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "쌀을 익힌 음식.",
+      "hint": "한국인의 주식.",
+      "emoji": "🍚"
+    },
+    {
+      "word": "우유",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 1500,
+      "meaning": "소에서 나오는 하얀 음료.",
+      "hint": "하얗고 소에서 나온다.",
+      "emoji": "🥛"
+    },
+    {
+      "word": "물",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 600,
+      "meaning": "우리가 마시는 투명한 액체.",
+      "hint": "목마름을 없애 준다.",
+      "emoji": "💧"
+    },
+    {
+      "word": "빵",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 1700,
+      "meaning": "밀가루로 만들어 구운 음식.",
+      "hint": "빵집에서 산다.",
+      "emoji": "🍞"
+    },
+    {
+      "word": "사과",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 2600,
+      "meaning": "빨갛거나 초록색 껍질의 둥근 과일.",
+      "hint": "하루 한 개면 의사가 필요 없다.",
+      "emoji": "🍎"
+    },
+    {
+      "word": "바나나",
+      "category": "food",
+      "difficulty": 4,
+      "frequency": 3000,
+      "meaning": "길고 휘어진 노란 과일.",
+      "hint": "껍질을 벗겨 먹는다.",
+      "emoji": "🍌"
+    },
+    {
+      "word": "귤",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 3100,
+      "meaning": "겨울에 많이 먹는 작고 둥근 주황색 과일.",
+      "hint": "겨울 과일.",
+      "emoji": "🍊"
+    },
+    {
+      "word": "치즈",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 3300,
+      "meaning": "우유로 만든 단단한 음식.",
+      "hint": "우유로 만들고 노란색이 많다.",
+      "emoji": "🧀"
+    },
+    {
+      "word": "달걀",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 2400,
+      "meaning": "닭이 낳는 타원형 음식.",
+      "hint": "닭이 낳는다.",
+      "emoji": "🥚"
+    },
+    {
+      "word": "소금",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 2800,
+      "meaning": "음식에 짠맛을 내는 하얀 가루.",
+      "hint": "바닷물에 들어 있다.",
+      "emoji": "🧂"
+    },
+    {
+      "word": "꿀",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 4100,
+      "meaning": "벌이 만드는 달콤한 액체.",
+      "hint": "벌이 만든다.",
+      "emoji": "🍯"
+    },
+    {
+      "word": "채소",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 3900,
+      "meaning": "먹기 위해 기르는 식물.",
+      "hint": "당근과 배추가 이것.",
+      "emoji": "🥦"
+    },
+    {
+      "word": "김치",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 2000,
+      "meaning": "배추 등을 양념에 절여 발효시킨 한국 음식.",
+      "hint": "한국의 대표 반찬."
+    },
+    {
+      "word": "나무",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1400,
+      "meaning": "줄기와 가지와 잎이 있는 큰 식물.",
+      "hint": "줄기와 가지가 있다.",
+      "emoji": "🌳"
+    },
+    {
+      "word": "산",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 2300,
+      "meaning": "아주 높이 솟은 땅.",
+      "hint": "언덕보다 훨씬 높다.",
+      "emoji": "⛰️"
+    },
+    {
+      "word": "강",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1600,
+      "meaning": "바다로 흘러가는 큰 물줄기.",
+      "hint": "바다로 흐른다."
+    },
+    {
+      "word": "바다",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "소금물이 넓게 펼쳐진 곳.",
+      "hint": "소금물과 파도.",
+      "emoji": "🌊"
+    },
+    {
+      "word": "하늘",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "우리 머리 위에 보이는 파란 공간.",
+      "hint": "위를 보면 보인다."
+    },
+    {
+      "word": "해",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1100,
+      "meaning": "낮에 빛과 열을 주는 별.",
+      "hint": "동쪽에서 뜬다.",
+      "emoji": "☀️"
+    },
+    {
+      "word": "달",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1900,
+      "meaning": "밤하늘에서 빛나는 천체.",
+      "hint": "밤에 빛난다.",
+      "emoji": "🌙"
+    },
+    {
+      "word": "숲",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 2500,
+      "meaning": "나무가 많이 우거진 넓은 곳.",
+      "hint": "나무가 아주 많다.",
+      "emoji": "🌲"
+    },
+    {
+      "word": "꽃",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 2000,
+      "meaning": "식물의 색이 예쁜 부분.",
+      "hint": "색과 향기가 있다.",
+      "emoji": "🌸"
+    },
+    {
+      "word": "비",
+      "category": "weather",
+      "difficulty": 1,
+      "frequency": 2200,
+      "meaning": "구름에서 떨어지는 물방울.",
+      "hint": "구름에서 떨어진다.",
+      "emoji": "🌧️"
+    },
+    {
+      "word": "바람",
+      "category": "weather",
+      "difficulty": 1,
+      "frequency": 2100,
+      "meaning": "움직이는 공기.",
+      "hint": "보이지 않지만 느껴진다.",
+      "emoji": "💨"
+    },
+    {
+      "word": "구름",
+      "category": "weather",
+      "difficulty": 2,
+      "frequency": 2700,
+      "meaning": "하늘에 떠 있는 물방울의 덩어리.",
+      "hint": "하얗고 떠 있다.",
+      "emoji": "☁️"
+    },
+    {
+      "word": "섬",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 2400,
+      "meaning": "사방이 물로 둘러싸인 땅.",
+      "hint": "사방이 물.",
+      "emoji": "🏝️"
+    },
+    {
+      "word": "눈",
+      "category": "body",
+      "difficulty": 1,
+      "frequency": 900,
+      "meaning": "보는 데 쓰는 신체 기관.",
+      "hint": "이것으로 본다.",
+      "emoji": "👁️"
+    },
+    {
+      "word": "머리",
+      "category": "body",
+      "difficulty": 1,
+      "frequency": 1000,
+      "meaning": "몸의 가장 위쪽 부분.",
+      "hint": "몸의 맨 위."
+    },
+    {
+      "word": "심장",
+      "category": "body",
+      "difficulty": 2,
+      "frequency": 1400,
+      "meaning": "온몸에 피를 보내는 기관.",
+      "hint": "쉬지 않고 뛴다.",
+      "emoji": "❤️"
+    },
+    {
+      "word": "손",
+      "category": "body",
+      "difficulty": 1,
+      "frequency": 700,
+      "meaning": "손가락 다섯 개가 있는 신체 부위.",
+      "hint": "손가락이 다섯 개.",
+      "emoji": "✋"
+    },
+    {
+      "word": "배",
+      "category": "body",
+      "difficulty": 1,
+      "frequency": 2600,
+      "meaning": "음식을 소화하는 신체 부위.",
+      "hint": "고프면 소리가 난다."
+    },
+    {
+      "word": "발",
+      "category": "body",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "걷는 데 쓰는 신체 부위.",
+      "hint": "걷는 데 쓴다.",
+      "emoji": "🦶"
+    },
+    {
+      "word": "집",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 500,
+      "meaning": "사람이 사는 곳.",
+      "hint": "우리가 사는 곳.",
+      "emoji": "🏠"
+    },
+    {
+      "word": "문",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 1100,
+      "meaning": "방에 들어가기 위해 여는 판.",
+      "hint": "열고 들어간다.",
+      "emoji": "🚪"
+    },
+    {
+      "word": "의자",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 1800,
+      "meaning": "한 사람이 앉는 등받이 있는 가구.",
+      "hint": "앉는 것.",
+      "emoji": "🪑"
+    },
+    {
+      "word": "책상",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "공부나 일을 하는 평평한 가구.",
+      "hint": "그 위에서 글을 쓴다."
+    },
+    {
+      "word": "창문",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 1500,
+      "meaning": "벽에 있는 유리로 된 열리는 부분.",
+      "hint": "벽에 있는 유리.",
+      "emoji": "🪟"
+    },
+    {
+      "word": "부엌",
+      "category": "home",
+      "difficulty": 2,
+      "frequency": 2000,
+      "meaning": "요리를 하는 방.",
+      "hint": "요리하는 곳."
+    },
+    {
+      "word": "책",
+      "category": "school",
+      "difficulty": 1,
+      "frequency": 700,
+      "meaning": "인쇄된 종이를 묶은 것.",
+      "hint": "읽는 것.",
+      "emoji": "📖"
+    },
+    {
+      "word": "학교",
+      "category": "school",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "아이들이 공부하는 곳.",
+      "hint": "아이들이 공부하러 간다.",
+      "emoji": "🏫"
+    },
+    {
+      "word": "선생님",
+      "category": "school",
+      "difficulty": 3,
+      "frequency": 1900,
+      "meaning": "다른 사람을 가르치는 사람.",
+      "hint": "교실에서 가르친다."
+    },
+    {
+      "word": "학생",
+      "category": "school",
+      "difficulty": 1,
+      "frequency": 1600,
+      "meaning": "학교에서 배우는 사람.",
+      "hint": "교실에 앉아 있다."
+    },
+    {
+      "word": "연필",
+      "category": "school",
+      "difficulty": 2,
+      "frequency": 3400,
+      "meaning": "지우개로 지울 수 있는 쓰는 도구.",
+      "hint": "쓴 글씨를 지울 수 있다.",
+      "emoji": "✏️"
+    },
+    {
+      "word": "언어",
+      "category": "school",
+      "difficulty": 2,
+      "frequency": 2300,
+      "meaning": "사람들이 생각을 전하기 위해 쓰는 말과 글.",
+      "hint": "한국어도 영어도 이것."
+    },
+    {
+      "word": "어머니",
+      "category": "family",
+      "difficulty": 3,
+      "frequency": 600,
+      "meaning": "여자 부모.",
+      "hint": "당신의 여자 부모."
+    },
+    {
+      "word": "아버지",
+      "category": "family",
+      "difficulty": 3,
+      "frequency": 700,
+      "meaning": "남자 부모.",
+      "hint": "당신의 남자 부모."
+    },
+    {
+      "word": "형",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "남자의 손위 남자 형제.",
+      "hint": "남동생이 부르는 말."
+    },
+    {
+      "word": "누나",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "남자의 손위 여자 형제.",
+      "hint": "남동생이 부르는 말."
+    },
+    {
+      "word": "아들",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 800,
+      "meaning": "남자 자식.",
+      "hint": "부모의 남자아이."
+    },
+    {
+      "word": "딸",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 900,
+      "meaning": "여자 자식.",
+      "hint": "부모의 여자아이."
+    },
+    {
+      "word": "빨강",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 1400,
+      "meaning": "피의 색.",
+      "hint": "피의 색.",
+      "emoji": "🔴"
+    },
+    {
+      "word": "파랑",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 1500,
+      "meaning": "맑은 하늘의 색.",
+      "hint": "하늘의 색.",
+      "emoji": "🔵"
+    },
+    {
+      "word": "초록",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 1600,
+      "meaning": "나뭇잎의 색.",
+      "hint": "나뭇잎의 색.",
+      "emoji": "🟢"
+    },
+    {
+      "word": "노랑",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 2400,
+      "meaning": "레몬의 색.",
+      "hint": "레몬의 색.",
+      "emoji": "🟡"
+    },
+    {
+      "word": "하양",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "우유의 색.",
+      "hint": "우유의 색.",
+      "emoji": "⚪"
+    },
+    {
+      "word": "검정",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "어두운 밤의 색.",
+      "hint": "밤의 색.",
+      "emoji": "⚫"
+    },
+    {
+      "word": "아침",
+      "category": "time",
+      "difficulty": 1,
+      "frequency": 900,
+      "meaning": "해가 뜬 뒤 하루의 첫 부분.",
+      "hint": "해가 뜨는 때.",
+      "emoji": "🌅"
+    },
+    {
+      "word": "밤",
+      "category": "time",
+      "difficulty": 1,
+      "frequency": 800,
+      "meaning": "해가 진 뒤의 어두운 시간.",
+      "hint": "달이 보이는 때.",
+      "emoji": "🌃"
+    },
+    {
+      "word": "오늘",
+      "category": "time",
+      "difficulty": 1,
+      "frequency": 500,
+      "meaning": "지금 지내고 있는 이 날.",
+      "hint": "어제 다음, 내일 전."
+    },
+    {
+      "word": "내일",
+      "category": "time",
+      "difficulty": 1,
+      "frequency": 700,
+      "meaning": "오늘의 다음 날.",
+      "hint": "오늘의 다음 날."
+    },
+    {
+      "word": "시간",
+      "category": "time",
+      "difficulty": 1,
+      "frequency": 400,
+      "meaning": "때의 흐름, 또는 육십 분.",
+      "hint": "시계로 잰다.",
+      "emoji": "🕒"
+    },
+    {
+      "word": "기차",
+      "category": "travel",
+      "difficulty": 1,
+      "frequency": 2000,
+      "meaning": "철길 위를 달리는 긴 탈것.",
+      "hint": "철길 위를 달린다.",
+      "emoji": "🚆"
+    },
+    {
+      "word": "길",
+      "category": "city",
+      "difficulty": 1,
+      "frequency": 1100,
+      "meaning": "차와 사람이 다니는 곳.",
+      "hint": "차와 사람이 다닌다.",
+      "emoji": "🛣️"
+    },
+    {
+      "word": "가게",
+      "category": "city",
+      "difficulty": 1,
+      "frequency": 1900,
+      "meaning": "물건을 파는 곳.",
+      "hint": "물건을 사는 곳.",
+      "emoji": "🏪"
+    },
+    {
+      "word": "도시",
+      "category": "city",
+      "difficulty": 1,
+      "frequency": 900,
+      "meaning": "많은 사람이 사는 큰 곳.",
+      "hint": "마을보다 훨씬 크다.",
+      "emoji": "🏙️"
+    },
+    {
+      "word": "시장",
+      "category": "city",
+      "difficulty": 1,
+      "frequency": 1800,
+      "meaning": "물건을 사고파는 곳.",
+      "hint": "사고파는 곳."
+    },
+    {
+      "word": "공항",
+      "category": "travel",
+      "difficulty": 2,
+      "frequency": 3300,
+      "meaning": "비행기가 뜨고 내리는 곳.",
+      "hint": "비행기가 내리는 곳.",
+      "emoji": "✈️"
+    },
+    {
+      "word": "기쁘다",
+      "category": "emotions",
+      "difficulty": 3,
+      "frequency": 1200,
+      "meaning": "즐겁고 좋은 마음이 들다.",
+      "hint": "슬프다의 반대.",
+      "synonyms": [
+        "즐겁다"
+      ],
+      "antonyms": [
+        "슬프다"
+      ],
+      "emoji": "😊"
+    },
+    {
+      "word": "슬프다",
+      "category": "emotions",
+      "difficulty": 3,
+      "frequency": 1700,
+      "meaning": "마음이 아프고 울고 싶다.",
+      "hint": "기쁘다의 반대.",
+      "antonyms": [
+        "기쁘다",
+        "즐겁다"
+      ],
+      "emoji": "😢"
+    },
+    {
+      "word": "무섭다",
+      "category": "emotions",
+      "difficulty": 3,
+      "frequency": 1500,
+      "meaning": "두려운 마음이 들다.",
+      "hint": "어두울 때 드는 마음.",
+      "synonyms": [
+        "두렵다"
+      ]
+    },
+    {
+      "word": "예쁘다",
+      "category": "qualities",
+      "difficulty": 3,
+      "frequency": 1600,
+      "meaning": "보기에 좋고 아름답다.",
+      "hint": "밉다의 반대.",
+      "synonyms": [
+        "아름답다"
+      ],
+      "antonyms": [
+        "밉다"
+      ]
+    },
+    {
+      "word": "크다",
+      "category": "qualities",
+      "difficulty": 1,
+      "frequency": 500,
+      "meaning": "크기가 보통보다 더하다.",
+      "hint": "작다의 반대.",
+      "antonyms": [
+        "작다"
+      ]
+    },
+    {
+      "word": "작다",
+      "category": "qualities",
+      "difficulty": 1,
+      "frequency": 700,
+      "meaning": "크기가 보통보다 덜하다.",
+      "hint": "크다의 반대.",
+      "antonyms": [
+        "크다"
+      ]
+    },
+    {
+      "word": "빠르다",
+      "category": "qualities",
+      "difficulty": 3,
+      "frequency": 1300,
+      "meaning": "움직임이 매우 재다.",
+      "hint": "느리다의 반대.",
+      "antonyms": [
+        "느리다"
+      ]
+    },
+    {
+      "word": "새롭다",
+      "category": "qualities",
+      "difficulty": 3,
+      "frequency": 600,
+      "meaning": "생긴 지 얼마 되지 않다.",
+      "hint": "낡다의 반대.",
+      "antonyms": [
+        "낡다"
+      ]
+    },
+    {
+      "word": "낡다",
+      "category": "qualities",
+      "difficulty": 1,
+      "frequency": 1100,
+      "meaning": "오래되어 헐다.",
+      "hint": "새롭다의 반대.",
+      "antonyms": [
+        "새롭다"
+      ]
+    }
+  ]
+}

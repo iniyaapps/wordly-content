@@ -1,0 +1,45 @@
+{
+  "code": "ko",
+  "name": "Korean",
+  "nativeName": "한국어",
+  "direction": "ltr",
+  "scriptProfile": "syllabary",
+  "contentStatus": "ready",
+  "contentVersion": 1,
+  "wordCount": 86,
+  "display": {
+    "uppercase": false,
+    "fontScale": 1.1
+  },
+  "letterSet": "",
+  "distractorSource": "corpus",
+  "enabledTypes": [
+    "unscramble",
+    "missingLetter",
+    "guessTheWord",
+    "multipleChoice",
+    "wordMeaning",
+    "synonym",
+    "antonym",
+    "categoryId",
+    "wordOrdering",
+    "emojiClue",
+    "completeTheWord",
+    "findWrongLetter",
+    "wordMatching",
+    "definitionChallenge",
+    "speedChallenge"
+  ],
+  "disabledTypes": [],
+  "params": {
+    "minGraphemes": 2,
+    "maxGraphemes": 6,
+    "choiceCounts": { "easy": 3, "medium": 4, "hard": 4, "expert": 5 },
+    "hintsPerLevel": { "easy": 2, "medium": 2, "hard": 1, "expert": 1 },
+    "timeLimitSeconds": { "easy": 0, "medium": 0, "hard": 0, "expert": 50 },
+    "speedChallengeSeconds": 35,
+    "maxUnscrambleGraphemes": 5,
+    "distractorSimilarity": { "easy": 0.2, "medium": 0.45, "hard": 0.7, "expert": 0.85 }
+  },
+  "notes": "Tiles are precomposed Hangul syllable blocks (한 = one tile), never decomposed jamo. Many everyday Korean nouns are a single syllable (개, 물, 산); the engine automatically routes those to choice/meaning/emoji puzzles because they fall below minGraphemes for tile puzzles. Adjectives are given in dictionary form (-다)."
+}

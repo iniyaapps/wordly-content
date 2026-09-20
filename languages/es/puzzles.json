@@ -1,0 +1,53 @@
+{
+  "language": "es",
+  "contentVersion": 1,
+  "prompts": {
+    "unscramble": "Ordena las letras",
+    "missingLetter": "Completa la letra que falta",
+    "guessTheWord": "Adivina la palabra",
+    "multipleChoice": "Elige la palabra correcta",
+    "wordMeaning": "¿Qué significa esta palabra?",
+    "synonym": "¿Qué palabra significa lo mismo?",
+    "antonym": "¿Qué palabra significa lo contrario?",
+    "categoryId": "¿A qué categoría pertenece esta palabra?",
+    "wordOrdering": "Pon las letras en el orden correcto",
+    "emojiClue": "¿Qué palabra corresponde a esta pista?",
+    "completeTheWord": "Completa la palabra",
+    "findWrongLetter": "Encuentra la letra que sobra",
+    "wordMatching": "Une la palabra con su significado",
+    "definitionChallenge": "¿Qué palabra corresponde a esta definición?",
+    "speedChallenge": "Responde antes de que se acabe el tiempo"
+  },
+  "labels": {
+    "lettersCount": "{n} letras",
+    "startsWith": "Empieza por {x}",
+    "endsWith": "Termina en {x}",
+    "categoryIs": "Categoría: {x}"
+  },
+  "weights": {
+    "easy": {
+      "unscramble": 22, "missingLetter": 20, "multipleChoice": 18, "emojiClue": 14,
+      "categoryId": 10, "completeTheWord": 10, "guessTheWord": 6,
+      "wordMeaning": 0, "synonym": 0, "antonym": 0, "wordOrdering": 0,
+      "findWrongLetter": 0, "wordMatching": 0, "definitionChallenge": 0, "speedChallenge": 0
+    },
+    "medium": {
+      "unscramble": 16, "missingLetter": 14, "multipleChoice": 12, "emojiClue": 8,
+      "categoryId": 8, "completeTheWord": 10, "guessTheWord": 10, "wordMeaning": 10,
+      "synonym": 4, "antonym": 4, "wordOrdering": 4,
+      "findWrongLetter": 0, "wordMatching": 0, "definitionChallenge": 0, "speedChallenge": 0
+    },
+    "hard": {
+      "unscramble": 12, "missingLetter": 8, "multipleChoice": 8, "emojiClue": 4,
+      "categoryId": 4, "completeTheWord": 8, "guessTheWord": 12, "wordMeaning": 12,
+      "synonym": 8, "antonym": 8, "wordOrdering": 6,
+      "findWrongLetter": 6, "wordMatching": 2, "definitionChallenge": 2, "speedChallenge": 0
+    },
+    "expert": {
+      "unscramble": 10, "missingLetter": 4, "multipleChoice": 4, "emojiClue": 2,
+      "categoryId": 2, "completeTheWord": 6, "guessTheWord": 14, "wordMeaning": 12,
+      "synonym": 10, "antonym": 10, "wordOrdering": 6,
+      "findWrongLetter": 8, "wordMatching": 4, "definitionChallenge": 4, "speedChallenge": 4
+    }
+  }
+}

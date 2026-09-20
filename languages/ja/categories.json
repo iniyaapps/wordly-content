@@ -1,0 +1,27 @@
+{
+  "language": "ja",
+  "contentVersion": 1,
+  "categories": [
+    { "key": "animals",    "label": "動物",       "emoji": "🐘" },
+    { "key": "food",       "label": "食べ物",     "emoji": "🍎" },
+    { "key": "nature",     "label": "自然",       "emoji": "🌳" },
+    { "key": "body",       "label": "体",         "emoji": "✋" },
+    { "key": "home",       "label": "家",         "emoji": "🏠" },
+    { "key": "clothing",   "label": "服",         "emoji": "👕" },
+    { "key": "travel",     "label": "旅行",       "emoji": "✈️" },
+    { "key": "city",       "label": "町",         "emoji": "🏙️" },
+    { "key": "school",     "label": "学校",       "emoji": "📚" },
+    { "key": "work",       "label": "仕事",       "emoji": "💼" },
+    { "key": "family",     "label": "家族",       "emoji": "👨‍👩‍👧" },
+    { "key": "time",       "label": "時間",       "emoji": "🕒" },
+    { "key": "weather",    "label": "天気",       "emoji": "🌦️" },
+    { "key": "colors",     "label": "色",         "emoji": "🎨" },
+    { "key": "sports",     "label": "スポーツ",   "emoji": "⚽" },
+    { "key": "music",      "label": "音楽",       "emoji": "🎵" },
+    { "key": "science",    "label": "科学",       "emoji": "🔬" },
+    { "key": "technology", "label": "技術",       "emoji": "💻" },
+    { "key": "emotions",   "label": "気持ち",     "emoji": "😊" },
+    { "key": "actions",    "label": "動作",       "emoji": "🏃" },
+    { "key": "qualities",  "label": "ようす",     "emoji": "✨" }
+  ]
+}

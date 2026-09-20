@@ -1,0 +1,18 @@
+{
+  "contentVersion": 1,
+  "minimumAppVersion": "1.0.0",
+  "languagesVersion": 1,
+  "updatedAt": "2026-09-19",
+  "languageVersions": {
+    "en": 1,
+    "ta": 1,
+    "hi": 1,
+    "es": 1,
+    "pt": 1,
+    "fr": 1,
+    "de": 1,
+    "id": 1,
+    "ja": 1,
+    "ko": 1
+  }
+}

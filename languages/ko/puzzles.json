@@ -1,0 +1,53 @@
+{
+  "language": "ko",
+  "contentVersion": 1,
+  "prompts": {
+    "unscramble": "글자를 바른 순서로 놓으세요",
+    "missingLetter": "빠진 글자를 채우세요",
+    "guessTheWord": "단어를 맞혀 보세요",
+    "multipleChoice": "알맞은 단어를 고르세요",
+    "wordMeaning": "이 단어의 뜻은 무엇일까요?",
+    "synonym": "뜻이 같은 단어는 무엇일까요?",
+    "antonym": "뜻이 반대인 단어는 무엇일까요?",
+    "categoryId": "이 단어는 어떤 종류에 속할까요?",
+    "wordOrdering": "글자를 순서대로 놓으세요",
+    "emojiClue": "이 힌트에 맞는 단어는 무엇일까요?",
+    "completeTheWord": "단어를 완성하세요",
+    "findWrongLetter": "잘못된 글자를 찾으세요",
+    "wordMatching": "단어와 뜻을 연결하세요",
+    "definitionChallenge": "이 설명에 맞는 단어는 무엇일까요?",
+    "speedChallenge": "시간 안에 답하세요"
+  },
+  "labels": {
+    "lettersCount": "{n} 글자",
+    "startsWith": "'{x}'(으)로 시작",
+    "endsWith": "'{x}'(으)로 끝남",
+    "categoryIs": "종류: {x}"
+  },
+  "weights": {
+    "easy": {
+      "unscramble": 18, "missingLetter": 16, "multipleChoice": 22, "emojiClue": 16,
+      "categoryId": 12, "completeTheWord": 8, "guessTheWord": 8,
+      "wordMeaning": 0, "synonym": 0, "antonym": 0, "wordOrdering": 0,
+      "findWrongLetter": 0, "wordMatching": 0, "definitionChallenge": 0, "speedChallenge": 0
+    },
+    "medium": {
+      "unscramble": 14, "missingLetter": 12, "multipleChoice": 14, "emojiClue": 10,
+      "categoryId": 8, "completeTheWord": 8, "guessTheWord": 10, "wordMeaning": 12,
+      "synonym": 2, "antonym": 4, "wordOrdering": 4,
+      "findWrongLetter": 2, "wordMatching": 0, "definitionChallenge": 0, "speedChallenge": 0
+    },
+    "hard": {
+      "unscramble": 12, "missingLetter": 8, "multipleChoice": 8, "emojiClue": 6,
+      "categoryId": 4, "completeTheWord": 8, "guessTheWord": 12, "wordMeaning": 14,
+      "synonym": 4, "antonym": 8, "wordOrdering": 4,
+      "findWrongLetter": 4, "wordMatching": 4, "definitionChallenge": 4, "speedChallenge": 0
+    },
+    "expert": {
+      "unscramble": 10, "missingLetter": 4, "multipleChoice": 4, "emojiClue": 2,
+      "categoryId": 2, "completeTheWord": 6, "guessTheWord": 14, "wordMeaning": 14,
+      "synonym": 6, "antonym": 10, "wordOrdering": 4,
+      "findWrongLetter": 6, "wordMatching": 6, "definitionChallenge": 6, "speedChallenge": 6
+    }
+  }
+}

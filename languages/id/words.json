@@ -1,0 +1,840 @@
+{
+  "language": "id",
+  "contentVersion": 1,
+  "updatedAt": "2026-09-19",
+  "words": [
+    {
+      "word": "KUCING",
+      "category": "animals",
+      "difficulty": 2,
+      "frequency": 1300,
+      "meaning": "Hewan kecil berbulu yang dipelihara di rumah.",
+      "hint": "Suaranya meong.",
+      "emoji": "🐈"
+    },
+    {
+      "word": "ANJING",
+      "category": "animals",
+      "difficulty": 2,
+      "frequency": 1000,
+      "meaning": "Hewan setia berkaki empat yang menggonggong.",
+      "hint": "Sahabat manusia.",
+      "emoji": "🐕"
+    },
+    {
+      "word": "IKAN",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 1600,
+      "meaning": "Hewan yang hidup di air dan bersirip.",
+      "hint": "Berenang dengan sirip.",
+      "emoji": "🐟"
+    },
+    {
+      "word": "BURUNG",
+      "category": "animals",
+      "difficulty": 2,
+      "frequency": 1900,
+      "meaning": "Hewan berbulu yang memiliki sayap.",
+      "hint": "Kebanyakan bisa terbang.",
+      "emoji": "🐦"
+    },
+    {
+      "word": "KUDA",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 1700,
+      "meaning": "Hewan besar yang ditunggangi manusia.",
+      "hint": "Berlari kencang.",
+      "emoji": "🐎"
+    },
+    {
+      "word": "GAJAH",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 4300,
+      "meaning": "Hewan abu-abu yang sangat besar dan berbelalai.",
+      "hint": "Hewan darat terbesar.",
+      "emoji": "🐘"
+    },
+    {
+      "word": "HARIMAU",
+      "category": "animals",
+      "difficulty": 4,
+      "frequency": 3600,
+      "meaning": "Kucing besar liar dengan belang hitam.",
+      "hint": "Kucing besar berbelang.",
+      "emoji": "🐅"
+    },
+    {
+      "word": "MONYET",
+      "category": "animals",
+      "difficulty": 2,
+      "frequency": 3200,
+      "meaning": "Hewan pemanjat berlengan panjang dan berekor.",
+      "hint": "Suka memanjat.",
+      "emoji": "🐒"
+    },
+    {
+      "word": "SINGA",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 2900,
+      "meaning": "Kucing besar yang disebut raja hutan.",
+      "hint": "Raja hutan.",
+      "emoji": "🦁"
+    },
+    {
+      "word": "KELINCI",
+      "category": "animals",
+      "difficulty": 4,
+      "frequency": 4400,
+      "meaning": "Hewan kecil bertelinga panjang yang melompat.",
+      "hint": "Telinga panjang, lompatan cepat.",
+      "emoji": "🐇"
+    },
+    {
+      "word": "BUAYA",
+      "category": "animals",
+      "difficulty": 2,
+      "frequency": 6200,
+      "meaning": "Reptil besar berahang kuat yang hidup di sungai.",
+      "hint": "Rahang panjang, hidup di sungai.",
+      "emoji": "🐊"
+    },
+    {
+      "word": "AYAM",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 2000,
+      "meaning": "Unggas yang bertelur dan berkokok.",
+      "hint": "Berkokok di pagi hari.",
+      "emoji": "🐔"
+    },
+    {
+      "word": "SAPI",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 2400,
+      "meaning": "Hewan ternak besar penghasil susu.",
+      "hint": "Menghasilkan susu.",
+      "emoji": "🐄"
+    },
+    {
+      "word": "NASI",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "Beras yang sudah dimasak.",
+      "hint": "Makanan pokok Indonesia.",
+      "emoji": "🍚"
+    },
+    {
+      "word": "SUSU",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 1500,
+      "meaning": "Minuman putih yang berasal dari sapi.",
+      "hint": "Putih, dari sapi.",
+      "emoji": "🥛"
+    },
+    {
+      "word": "AIR",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 600,
+      "meaning": "Cairan bening yang kita minum.",
+      "hint": "Menghilangkan haus.",
+      "emoji": "💧"
+    },
+    {
+      "word": "ROTI",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 1700,
+      "meaning": "Makanan yang dipanggang dari tepung.",
+      "hint": "Dari toko roti.",
+      "emoji": "🍞"
+    },
+    {
+      "word": "APEL",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 2600,
+      "meaning": "Buah bulat berkulit merah atau hijau.",
+      "hint": "Satu sehari menjauhkan dokter.",
+      "emoji": "🍎"
+    },
+    {
+      "word": "PISANG",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 3000,
+      "meaning": "Buah panjang melengkung berwarna kuning.",
+      "hint": "Dikupas sebelum dimakan.",
+      "emoji": "🍌"
+    },
+    {
+      "word": "JERUK",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 3100,
+      "meaning": "Buah bulat yang rasanya asam manis.",
+      "hint": "Kaya vitamin C.",
+      "emoji": "🍊"
+    },
+    {
+      "word": "KEJU",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 3300,
+      "meaning": "Makanan padat yang dibuat dari susu.",
+      "hint": "Dari susu, sering kuning.",
+      "emoji": "🧀"
+    },
+    {
+      "word": "TELUR",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 2400,
+      "meaning": "Makanan berbentuk lonjong yang dihasilkan ayam.",
+      "hint": "Dihasilkan ayam.",
+      "emoji": "🥚"
+    },
+    {
+      "word": "GARAM",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 2800,
+      "meaning": "Zat putih untuk memberi rasa asin pada makanan.",
+      "hint": "Ada di air laut.",
+      "emoji": "🧂"
+    },
+    {
+      "word": "MADU",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 4100,
+      "meaning": "Cairan manis yang dibuat oleh lebah.",
+      "hint": "Dibuat lebah.",
+      "emoji": "🍯"
+    },
+    {
+      "word": "SAYUR",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 3900,
+      "meaning": "Tumbuhan atau bagian tumbuhan yang dimakan.",
+      "hint": "Bayam dan wortel termasuk ini.",
+      "emoji": "🥦"
+    },
+    {
+      "word": "GULA",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 3400,
+      "meaning": "Zat putih yang rasanya manis.",
+      "hint": "Dimasukkan ke dalam teh."
+    },
+    {
+      "word": "POHON",
+      "category": "nature",
+      "difficulty": 2,
+      "frequency": 1400,
+      "meaning": "Tumbuhan besar dengan batang, cabang, dan daun.",
+      "hint": "Punya batang dan cabang.",
+      "emoji": "🌳"
+    },
+    {
+      "word": "GUNUNG",
+      "category": "nature",
+      "difficulty": 2,
+      "frequency": 2300,
+      "meaning": "Tanah yang menjulang sangat tinggi.",
+      "hint": "Lebih tinggi dari bukit.",
+      "emoji": "⛰️"
+    },
+    {
+      "word": "SUNGAI",
+      "category": "nature",
+      "difficulty": 2,
+      "frequency": 1600,
+      "meaning": "Aliran air yang mengalir menuju laut.",
+      "hint": "Mengalir ke laut."
+    },
+    {
+      "word": "LAUT",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "Hamparan air asin yang sangat luas.",
+      "hint": "Air asin dan ombak.",
+      "emoji": "🌊"
+    },
+    {
+      "word": "LANGIT",
+      "category": "nature",
+      "difficulty": 2,
+      "frequency": 1300,
+      "meaning": "Ruang biru yang terlihat di atas kita.",
+      "hint": "Lihat ke atas."
+    },
+    {
+      "word": "MATAHARI",
+      "category": "nature",
+      "difficulty": 4,
+      "frequency": 1100,
+      "meaning": "Bintang yang memberi cahaya dan panas di siang hari.",
+      "hint": "Terbit di timur.",
+      "emoji": "☀️"
+    },
+    {
+      "word": "BULAN",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1900,
+      "meaning": "Benda langit yang bersinar pada malam hari.",
+      "hint": "Bersinar di malam hari.",
+      "emoji": "🌙"
+    },
+    {
+      "word": "HUTAN",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 2500,
+      "meaning": "Kawasan luas yang dipenuhi pohon.",
+      "hint": "Banyak pohon bersama.",
+      "emoji": "🌲"
+    },
+    {
+      "word": "BUNGA",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 2000,
+      "meaning": "Bagian tumbuhan yang berwarna indah.",
+      "hint": "Berwarna dan harum.",
+      "emoji": "🌸"
+    },
+    {
+      "word": "HUJAN",
+      "category": "weather",
+      "difficulty": 1,
+      "frequency": 2200,
+      "meaning": "Air yang jatuh dari awan berupa tetesan.",
+      "hint": "Jatuh dari awan.",
+      "emoji": "🌧️"
+    },
+    {
+      "word": "ANGIN",
+      "category": "weather",
+      "difficulty": 1,
+      "frequency": 2100,
+      "meaning": "Udara yang bergerak.",
+      "hint": "Tidak terlihat, tetapi terasa.",
+      "emoji": "💨"
+    },
+    {
+      "word": "AWAN",
+      "category": "weather",
+      "difficulty": 1,
+      "frequency": 2700,
+      "meaning": "Kumpulan titik air yang melayang di langit.",
+      "hint": "Putih dan melayang.",
+      "emoji": "☁️"
+    },
+    {
+      "word": "PULAU",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 2400,
+      "meaning": "Daratan yang dikelilingi air.",
+      "hint": "Air di semua sisi.",
+      "emoji": "🏝️"
+    },
+    {
+      "word": "MATA",
+      "category": "body",
+      "difficulty": 1,
+      "frequency": 900,
+      "meaning": "Bagian tubuh untuk melihat.",
+      "hint": "Untuk melihat.",
+      "emoji": "👁️"
+    },
+    {
+      "word": "KEPALA",
+      "category": "body",
+      "difficulty": 2,
+      "frequency": 1000,
+      "meaning": "Bagian tubuh paling atas.",
+      "hint": "Paling atas."
+    },
+    {
+      "word": "JANTUNG",
+      "category": "body",
+      "difficulty": 3,
+      "frequency": 1400,
+      "meaning": "Organ yang memompa darah ke seluruh tubuh.",
+      "hint": "Berdetak tanpa henti.",
+      "emoji": "❤️"
+    },
+    {
+      "word": "TANGAN",
+      "category": "body",
+      "difficulty": 2,
+      "frequency": 700,
+      "meaning": "Bagian tubuh yang memiliki lima jari.",
+      "hint": "Punya lima jari.",
+      "emoji": "✋"
+    },
+    {
+      "word": "PERUT",
+      "category": "body",
+      "difficulty": 2,
+      "frequency": 2600,
+      "meaning": "Bagian tubuh tempat makanan dicerna.",
+      "hint": "Berbunyi saat lapar."
+    },
+    {
+      "word": "KAKI",
+      "category": "body",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "Bagian tubuh untuk berjalan.",
+      "hint": "Untuk berjalan.",
+      "emoji": "🦶"
+    },
+    {
+      "word": "RUMAH",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 500,
+      "meaning": "Tempat tinggal manusia.",
+      "hint": "Tempat kita tinggal.",
+      "emoji": "🏠"
+    },
+    {
+      "word": "PINTU",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 1100,
+      "meaning": "Papan yang dibuka untuk masuk ke ruangan.",
+      "hint": "Dibuka untuk masuk.",
+      "emoji": "🚪"
+    },
+    {
+      "word": "KURSI",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 1800,
+      "meaning": "Tempat duduk bersandaran untuk satu orang.",
+      "hint": "Untuk duduk.",
+      "emoji": "🪑"
+    },
+    {
+      "word": "MEJA",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "Perabot berpermukaan datar dengan kaki.",
+      "hint": "Permukaan datar, empat kaki."
+    },
+    {
+      "word": "JENDELA",
+      "category": "home",
+      "difficulty": 3,
+      "frequency": 1500,
+      "meaning": "Lubang berkaca pada dinding.",
+      "hint": "Kaca di dinding.",
+      "emoji": "🪟"
+    },
+    {
+      "word": "DAPUR",
+      "category": "home",
+      "difficulty": 2,
+      "frequency": 2000,
+      "meaning": "Ruangan tempat memasak.",
+      "hint": "Tempat memasak."
+    },
+    {
+      "word": "BUKU",
+      "category": "school",
+      "difficulty": 1,
+      "frequency": 700,
+      "meaning": "Kumpulan halaman cetak yang dijilid.",
+      "hint": "Untuk dibaca.",
+      "emoji": "📖"
+    },
+    {
+      "word": "SEKOLAH",
+      "category": "school",
+      "difficulty": 3,
+      "frequency": 1300,
+      "meaning": "Tempat anak-anak belajar.",
+      "hint": "Anak-anak belajar di sini.",
+      "emoji": "🏫"
+    },
+    {
+      "word": "GURU",
+      "category": "school",
+      "difficulty": 1,
+      "frequency": 1900,
+      "meaning": "Orang yang mengajar.",
+      "hint": "Mengajar di kelas."
+    },
+    {
+      "word": "MURID",
+      "category": "school",
+      "difficulty": 2,
+      "frequency": 1600,
+      "meaning": "Orang yang belajar di sekolah.",
+      "hint": "Duduk di kelas."
+    },
+    {
+      "word": "PENSIL",
+      "category": "school",
+      "difficulty": 2,
+      "frequency": 3400,
+      "meaning": "Alat tulis yang tulisannya bisa dihapus.",
+      "hint": "Tulisannya bisa dihapus.",
+      "emoji": "✏️"
+    },
+    {
+      "word": "BAHASA",
+      "category": "school",
+      "difficulty": 2,
+      "frequency": 2300,
+      "meaning": "Sistem kata yang dipakai untuk berkomunikasi.",
+      "hint": "Indonesia punya satu yang resmi."
+    },
+    {
+      "word": "IBU",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 600,
+      "meaning": "Orang tua perempuan.",
+      "hint": "Orang tua perempuanmu."
+    },
+    {
+      "word": "AYAH",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 700,
+      "meaning": "Orang tua laki-laki.",
+      "hint": "Orang tua laki-lakimu."
+    },
+    {
+      "word": "KAKAK",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "Saudara yang lebih tua.",
+      "hint": "Saudara yang lebih tua."
+    },
+    {
+      "word": "ADIK",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "Saudara yang lebih muda.",
+      "hint": "Saudara yang lebih muda."
+    },
+    {
+      "word": "ANAK",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 800,
+      "meaning": "Keturunan dari orang tua.",
+      "hint": "Keturunan orang tua."
+    },
+    {
+      "word": "NENEK",
+      "category": "family",
+      "difficulty": 2,
+      "frequency": 2200,
+      "meaning": "Ibu dari ayah atau ibu.",
+      "hint": "Ibu dari orang tuamu."
+    },
+    {
+      "word": "MERAH",
+      "category": "colors",
+      "difficulty": 2,
+      "frequency": 1400,
+      "meaning": "Warna darah.",
+      "hint": "Warna darah.",
+      "emoji": "🔴"
+    },
+    {
+      "word": "BIRU",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 1500,
+      "meaning": "Warna langit cerah.",
+      "hint": "Warna langit.",
+      "emoji": "🔵"
+    },
+    {
+      "word": "HIJAU",
+      "category": "colors",
+      "difficulty": 2,
+      "frequency": 1600,
+      "meaning": "Warna daun.",
+      "hint": "Warna daun.",
+      "emoji": "🟢"
+    },
+    {
+      "word": "KUNING",
+      "category": "colors",
+      "difficulty": 2,
+      "frequency": 2400,
+      "meaning": "Warna lemon.",
+      "hint": "Warna lemon.",
+      "emoji": "🟡"
+    },
+    {
+      "word": "PUTIH",
+      "category": "colors",
+      "difficulty": 2,
+      "frequency": 1300,
+      "meaning": "Warna susu.",
+      "hint": "Warna susu.",
+      "emoji": "⚪"
+    },
+    {
+      "word": "HITAM",
+      "category": "colors",
+      "difficulty": 2,
+      "frequency": 1200,
+      "meaning": "Warna malam yang gelap.",
+      "hint": "Warna malam.",
+      "emoji": "⚫"
+    },
+    {
+      "word": "PAGI",
+      "category": "time",
+      "difficulty": 1,
+      "frequency": 900,
+      "meaning": "Bagian awal hari sebelum siang.",
+      "hint": "Saat matahari terbit.",
+      "emoji": "🌅"
+    },
+    {
+      "word": "MALAM",
+      "category": "time",
+      "difficulty": 1,
+      "frequency": 800,
+      "meaning": "Waktu gelap setelah matahari terbenam.",
+      "hint": "Saat bulan terlihat.",
+      "emoji": "🌃"
+    },
+    {
+      "word": "MINGGU",
+      "category": "time",
+      "difficulty": 2,
+      "frequency": 1000,
+      "meaning": "Masa tujuh hari.",
+      "hint": "Tujuh hari.",
+      "emoji": "📅"
+    },
+    {
+      "word": "TAHUN",
+      "category": "time",
+      "difficulty": 2,
+      "frequency": 500,
+      "meaning": "Masa dua belas bulan.",
+      "hint": "Dua belas bulan."
+    },
+    {
+      "word": "HARI",
+      "category": "time",
+      "difficulty": 1,
+      "frequency": 400,
+      "meaning": "Masa dua puluh empat jam.",
+      "hint": "Dua puluh empat jam."
+    },
+    {
+      "word": "KERETA",
+      "category": "travel",
+      "difficulty": 2,
+      "frequency": 2000,
+      "meaning": "Kendaraan panjang yang berjalan di atas rel.",
+      "hint": "Berjalan di atas rel.",
+      "emoji": "🚆"
+    },
+    {
+      "word": "JALAN",
+      "category": "city",
+      "difficulty": 1,
+      "frequency": 1100,
+      "meaning": "Jalur tempat kendaraan dan orang lewat.",
+      "hint": "Dilalui kendaraan.",
+      "emoji": "🛣️"
+    },
+    {
+      "word": "TOKO",
+      "category": "city",
+      "difficulty": 1,
+      "frequency": 1900,
+      "meaning": "Tempat menjual barang.",
+      "hint": "Tempat berbelanja.",
+      "emoji": "🏪"
+    },
+    {
+      "word": "KOTA",
+      "category": "city",
+      "difficulty": 1,
+      "frequency": 900,
+      "meaning": "Tempat besar yang dihuni banyak orang.",
+      "hint": "Jauh lebih besar dari desa.",
+      "emoji": "🏙️"
+    },
+    {
+      "word": "PASAR",
+      "category": "city",
+      "difficulty": 1,
+      "frequency": 1800,
+      "meaning": "Tempat orang membeli dan menjual.",
+      "hint": "Tempat jual beli."
+    },
+    {
+      "word": "BANDARA",
+      "category": "travel",
+      "difficulty": 4,
+      "frequency": 3300,
+      "meaning": "Tempat pesawat lepas landas dan mendarat.",
+      "hint": "Tempat pesawat mendarat.",
+      "emoji": "✈️"
+    },
+    {
+      "word": "SENANG",
+      "category": "emotions",
+      "difficulty": 2,
+      "frequency": 1200,
+      "meaning": "Merasa gembira.",
+      "hint": "Lawan kata sedih.",
+      "synonyms": [
+        "GEMBIRA",
+        "BAHAGIA"
+      ],
+      "antonyms": [
+        "SEDIH"
+      ],
+      "emoji": "😊"
+    },
+    {
+      "word": "SEDIH",
+      "category": "emotions",
+      "difficulty": 1,
+      "frequency": 1700,
+      "meaning": "Merasa susah hati.",
+      "hint": "Lawan kata senang.",
+      "synonyms": [
+        "MURUNG"
+      ],
+      "antonyms": [
+        "SENANG",
+        "GEMBIRA"
+      ],
+      "emoji": "😢"
+    },
+    {
+      "word": "TAKUT",
+      "category": "emotions",
+      "difficulty": 1,
+      "frequency": 1500,
+      "meaning": "Merasa khawatir akan bahaya.",
+      "hint": "Dirasakan saat gelap.",
+      "synonyms": [
+        "NGERI"
+      ],
+      "antonyms": [
+        "BERANI"
+      ]
+    },
+    {
+      "word": "CANTIK",
+      "category": "qualities",
+      "difficulty": 2,
+      "frequency": 1600,
+      "meaning": "Indah dipandang.",
+      "hint": "Lawan kata jelek.",
+      "synonyms": [
+        "INDAH",
+        "ELOK"
+      ],
+      "antonyms": [
+        "JELEK"
+      ]
+    },
+    {
+      "word": "BESAR",
+      "category": "qualities",
+      "difficulty": 1,
+      "frequency": 500,
+      "meaning": "Berukuran lebih dari biasa.",
+      "hint": "Lawan kata kecil.",
+      "synonyms": [
+        "RAKSASA"
+      ],
+      "antonyms": [
+        "KECIL"
+      ]
+    },
+    {
+      "word": "KECIL",
+      "category": "qualities",
+      "difficulty": 1,
+      "frequency": 700,
+      "meaning": "Berukuran kurang dari biasa.",
+      "hint": "Lawan kata besar.",
+      "synonyms": [
+        "MUNGIL"
+      ],
+      "antonyms": [
+        "BESAR"
+      ]
+    },
+    {
+      "word": "CEPAT",
+      "category": "qualities",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "Bergerak dengan laju tinggi.",
+      "hint": "Lawan kata lambat.",
+      "synonyms": [
+        "LAJU"
+      ],
+      "antonyms": [
+        "LAMBAT"
+      ]
+    },
+    {
+      "word": "TUA",
+      "category": "qualities",
+      "difficulty": 1,
+      "frequency": 1100,
+      "meaning": "Sudah berumur lama.",
+      "hint": "Lawan kata muda.",
+      "synonyms": [
+        "LAMA"
+      ],
+      "antonyms": [
+        "MUDA",
+        "BARU"
+      ]
+    },
+    {
+      "word": "BARU",
+      "category": "qualities",
+      "difficulty": 1,
+      "frequency": 600,
+      "meaning": "Belum lama ada.",
+      "hint": "Lawan kata lama.",
+      "synonyms": [
+        "ANYAR"
+      ],
+      "antonyms": [
+        "LAMA"
+      ]
+    }
+  ]
+}

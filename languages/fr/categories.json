@@ -1,0 +1,27 @@
+{
+  "language": "fr",
+  "contentVersion": 1,
+  "categories": [
+    { "key": "animals",    "label": "Animaux",             "emoji": "🐘" },
+    { "key": "food",       "label": "Nourriture",          "emoji": "🍎" },
+    { "key": "nature",     "label": "Nature",              "emoji": "🌳" },
+    { "key": "body",       "label": "Corps",               "emoji": "✋" },
+    { "key": "home",       "label": "Maison",              "emoji": "🏠" },
+    { "key": "clothing",   "label": "Vêtements",           "emoji": "👕" },
+    { "key": "travel",     "label": "Voyage",              "emoji": "✈️" },
+    { "key": "city",       "label": "Ville",               "emoji": "🏙️" },
+    { "key": "school",     "label": "École",               "emoji": "📚" },
+    { "key": "work",       "label": "Travail",             "emoji": "💼" },
+    { "key": "family",     "label": "Famille",             "emoji": "👨‍👩‍👧" },
+    { "key": "time",       "label": "Temps",               "emoji": "🕒" },
+    { "key": "weather",    "label": "Météo",               "emoji": "🌦️" },
+    { "key": "colors",     "label": "Couleurs",            "emoji": "🎨" },
+    { "key": "sports",     "label": "Sport",               "emoji": "⚽" },
+    { "key": "music",      "label": "Musique",             "emoji": "🎵" },
+    { "key": "science",    "label": "Science",             "emoji": "🔬" },
+    { "key": "technology", "label": "Technologie",         "emoji": "💻" },
+    { "key": "emotions",   "label": "Émotions",            "emoji": "😊" },
+    { "key": "actions",    "label": "Actions",             "emoji": "🏃" },
+    { "key": "qualities",  "label": "Qualités",            "emoji": "✨" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "code": "es",
+  "name": "Spanish",
+  "nativeName": "Español",
+  "direction": "ltr",
+  "scriptProfile": "alphabetic",
+  "contentStatus": "ready",
+  "contentVersion": 1,
+  "wordCount": 82,
+  "display": {
+    "uppercase": true,
+    "fontScale": 1.0
+  },
+  "letterSet": "ABCDEFGHIJKLMNÑOPQRSTUVWXYZÁÉÍÓÚÜ",
+  "enabledTypes": [
+    "unscramble", "missingLetter", "guessTheWord", "multipleChoice", "wordMeaning",
+    "synonym", "antonym", "categoryId", "wordOrdering", "emojiClue", "completeTheWord",
+    "findWrongLetter", "wordMatching", "definitionChallenge", "speedChallenge"
+  ],
+  "disabledTypes": [],
+  "params": {
+    "minGraphemes": 3,
+    "maxGraphemes": 12,
+    "choiceCounts": { "easy": 3, "medium": 4, "hard": 4, "expert": 5 },
+    "hintsPerLevel": { "easy": 2, "medium": 2, "hard": 1, "expert": 1 },
+    "timeLimitSeconds": { "easy": 0, "medium": 0, "hard": 0, "expert": 45 },
+    "speedChallengeSeconds": 30,
+    "maxUnscrambleGraphemes": 10,
+    "distractorSimilarity": { "easy": 0.2, "medium": 0.45, "hard": 0.7, "expert": 0.85 }
+  },
+  "notes": "Accented capitals (Á, É, Í, Ó, Ú, Ñ) are kept — Spanish orthography keeps accents on uppercase. Á is one grapheme cluster after NFC."
+}

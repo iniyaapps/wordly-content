@@ -1,0 +1,49 @@
+{
+  "code": "hi",
+  "name": "Hindi",
+  "nativeName": "हिन्दी",
+  "direction": "ltr",
+  "scriptProfile": "abugida",
+  "contentStatus": "ready",
+  "contentVersion": 1,
+  "wordCount": 60,
+  "display": {
+    "uppercase": false,
+    "fontScale": 1.1
+  },
+  "letterSet": "",
+  "distractorSource": "corpus",
+  "enabledTypes": [
+    "unscramble",
+    "missingLetter",
+    "guessTheWord",
+    "multipleChoice",
+    "wordMeaning",
+    "synonym",
+    "antonym",
+    "categoryId",
+    "wordOrdering",
+    "emojiClue",
+    "completeTheWord",
+    "wordMatching",
+    "definitionChallenge",
+    "speedChallenge"
+  ],
+  "disabledTypes": [
+    "findWrongLetter"
+  ],
+  "disabledReason": {
+    "findWrongLetter": "Devanagari conjuncts and matras make a single substituted akshara ambiguous to spot. Disabled until a curated minimal-pair list exists."
+  },
+  "params": {
+    "minGraphemes": 2,
+    "maxGraphemes": 8,
+    "choiceCounts": { "easy": 3, "medium": 4, "hard": 4, "expert": 5 },
+    "hintsPerLevel": { "easy": 2, "medium": 2, "hard": 1, "expert": 1 },
+    "timeLimitSeconds": { "easy": 0, "medium": 0, "hard": 0, "expert": 50 },
+    "speedChallengeSeconds": 35,
+    "maxUnscrambleGraphemes": 6,
+    "distractorSimilarity": { "easy": 0.2, "medium": 0.45, "hard": 0.7, "expert": 0.85 }
+  },
+  "notes": "Segment by grapheme cluster. कि is one tile (consonant + matra). Conjuncts written with halant such as क्ष stay together as one tile. Nukta forms (ड़, ढ़) are single clusters after NFC normalisation."
+}

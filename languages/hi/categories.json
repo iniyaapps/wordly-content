@@ -1,0 +1,27 @@
+{
+  "language": "hi",
+  "contentVersion": 1,
+  "categories": [
+    { "key": "animals",    "label": "जानवर",         "emoji": "🐘" },
+    { "key": "food",       "label": "खाना-पीना",      "emoji": "🍎" },
+    { "key": "nature",     "label": "प्रकृति",        "emoji": "🌳" },
+    { "key": "body",       "label": "शरीर",           "emoji": "✋" },
+    { "key": "home",       "label": "घर",             "emoji": "🏠" },
+    { "key": "clothing",   "label": "कपड़े",          "emoji": "👕" },
+    { "key": "travel",     "label": "यात्रा",         "emoji": "✈️" },
+    { "key": "city",       "label": "शहर",            "emoji": "🏙️" },
+    { "key": "school",     "label": "विद्यालय",       "emoji": "📚" },
+    { "key": "work",       "label": "काम",            "emoji": "💼" },
+    { "key": "family",     "label": "परिवार",         "emoji": "👨‍👩‍👧" },
+    { "key": "time",       "label": "समय",            "emoji": "🕒" },
+    { "key": "weather",    "label": "मौसम",           "emoji": "🌦️" },
+    { "key": "colors",     "label": "रंग",            "emoji": "🎨" },
+    { "key": "sports",     "label": "खेल",            "emoji": "⚽" },
+    { "key": "music",      "label": "संगीत",          "emoji": "🎵" },
+    { "key": "science",    "label": "विज्ञान",        "emoji": "🔬" },
+    { "key": "technology", "label": "तकनीक",          "emoji": "💻" },
+    { "key": "emotions",   "label": "भावनाएँ",        "emoji": "😊" },
+    { "key": "actions",    "label": "क्रियाएँ",       "emoji": "🏃" },
+    { "key": "qualities",  "label": "विशेषताएँ",      "emoji": "✨" }
+  ]
+}

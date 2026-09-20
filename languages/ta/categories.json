@@ -1,0 +1,27 @@
+{
+  "language": "ta",
+  "contentVersion": 1,
+  "categories": [
+    { "key": "animals",    "label": "விலங்குகள்",        "emoji": "🐘" },
+    { "key": "food",       "label": "உணவு",             "emoji": "🍎" },
+    { "key": "nature",     "label": "இயற்கை",           "emoji": "🌳" },
+    { "key": "body",       "label": "உடல்",             "emoji": "✋" },
+    { "key": "home",       "label": "வீடு",             "emoji": "🏠" },
+    { "key": "clothing",   "label": "ஆடைகள்",           "emoji": "👕" },
+    { "key": "travel",     "label": "பயணம்",            "emoji": "✈️" },
+    { "key": "city",       "label": "நகரம்",            "emoji": "🏙️" },
+    { "key": "school",     "label": "பள்ளி",            "emoji": "📚" },
+    { "key": "work",       "label": "வேலை",             "emoji": "💼" },
+    { "key": "family",     "label": "குடும்பம்",         "emoji": "👨‍👩‍👧" },
+    { "key": "time",       "label": "நேரம்",            "emoji": "🕒" },
+    { "key": "weather",    "label": "வானிலை",           "emoji": "🌦️" },
+    { "key": "colors",     "label": "நிறங்கள்",         "emoji": "🎨" },
+    { "key": "sports",     "label": "விளையாட்டு",       "emoji": "⚽" },
+    { "key": "music",      "label": "இசை",              "emoji": "🎵" },
+    { "key": "science",    "label": "அறிவியல்",         "emoji": "🔬" },
+    { "key": "technology", "label": "தொழில்நுட்பம்",     "emoji": "💻" },
+    { "key": "emotions",   "label": "உணர்வுகள்",        "emoji": "😊" },
+    { "key": "actions",    "label": "செயல்கள்",         "emoji": "🏃" },
+    { "key": "qualities",  "label": "பண்புகள்",         "emoji": "✨" }
+  ]
+}

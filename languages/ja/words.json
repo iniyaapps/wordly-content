@@ -1,0 +1,867 @@
+{
+  "language": "ja",
+  "contentVersion": 1,
+  "updatedAt": "2026-09-19",
+  "words": [
+    {
+      "word": "猫",
+      "reading": "ねこ",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "家で飼われる小さな毛のある動物。",
+      "hint": "ニャーと鳴く。",
+      "emoji": "🐈"
+    },
+    {
+      "word": "犬",
+      "reading": "いぬ",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 1000,
+      "meaning": "ワンと吠える忠実な動物。",
+      "hint": "人間の親友。",
+      "emoji": "🐕"
+    },
+    {
+      "word": "魚",
+      "reading": "さかな",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 1600,
+      "meaning": "水の中に住み、ひれで泳ぐ動物。",
+      "hint": "ひれで泳ぐ。",
+      "emoji": "🐟"
+    },
+    {
+      "word": "鳥",
+      "reading": "とり",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 1900,
+      "meaning": "羽と翼を持つ動物。",
+      "hint": "ほとんどは空を飛ぶ。",
+      "emoji": "🐦"
+    },
+    {
+      "word": "馬",
+      "reading": "うま",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 1700,
+      "meaning": "人が乗る大きな動物。",
+      "hint": "速く走る。",
+      "emoji": "🐎"
+    },
+    {
+      "word": "象",
+      "reading": "ぞう",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 4300,
+      "meaning": "長い鼻を持つとても大きな灰色の動物。",
+      "hint": "陸で一番大きな動物。",
+      "emoji": "🐘"
+    },
+    {
+      "word": "虎",
+      "reading": "とら",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 3600,
+      "meaning": "黒いしまのある大きな野生のネコ科の動物。",
+      "hint": "しま模様の大きなネコ。",
+      "emoji": "🐅"
+    },
+    {
+      "word": "猿",
+      "reading": "さる",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 3200,
+      "meaning": "木に登るのが上手な長い腕の動物。",
+      "hint": "木登りが得意。",
+      "emoji": "🐒"
+    },
+    {
+      "word": "うさぎ",
+      "reading": "うさぎ",
+      "category": "animals",
+      "difficulty": 2,
+      "frequency": 4400,
+      "meaning": "長い耳を持ち、ぴょんぴょん跳ねる小さな動物。",
+      "hint": "長い耳で跳ねる。",
+      "emoji": "🐇"
+    },
+    {
+      "word": "蝶",
+      "reading": "ちょう",
+      "category": "animals",
+      "difficulty": 2,
+      "frequency": 6200,
+      "meaning": "大きな色とりどりの羽を持つ昆虫。",
+      "hint": "昔は毛虫だった。",
+      "emoji": "🦋"
+    },
+    {
+      "word": "亀",
+      "reading": "かめ",
+      "category": "animals",
+      "difficulty": 1,
+      "frequency": 6600,
+      "meaning": "背中に甲羅のあるゆっくり歩く動物。",
+      "hint": "とてもゆっくり歩く。",
+      "emoji": "🐢"
+    },
+    {
+      "word": "鶏",
+      "reading": "にわとり",
+      "category": "animals",
+      "difficulty": 3,
+      "frequency": 3000,
+      "meaning": "卵を産み、朝に鳴く鳥。",
+      "hint": "朝コケコッコーと鳴く。",
+      "emoji": "🐔"
+    },
+    {
+      "word": "ご飯",
+      "reading": "ごはん",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 1200,
+      "meaning": "炊いた米。また、食事のこと。",
+      "hint": "日本の主食。",
+      "emoji": "🍚"
+    },
+    {
+      "word": "牛乳",
+      "reading": "ぎゅうにゅう",
+      "category": "food",
+      "difficulty": 3,
+      "frequency": 1500,
+      "meaning": "牛から取れる白い飲み物。",
+      "hint": "白くて牛から取れる。",
+      "emoji": "🥛"
+    },
+    {
+      "word": "水",
+      "reading": "みず",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 600,
+      "meaning": "私たちが飲む透明な液体。",
+      "hint": "のどのかわきをいやす。",
+      "emoji": "💧"
+    },
+    {
+      "word": "パン",
+      "reading": "ぱん",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 1700,
+      "meaning": "小麦粉から作って焼いた食べ物。",
+      "hint": "パン屋で買う。",
+      "emoji": "🍞"
+    },
+    {
+      "word": "りんご",
+      "reading": "りんご",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 2600,
+      "meaning": "赤や緑の皮の丸い果物。",
+      "hint": "一日一個で医者いらず。",
+      "emoji": "🍎"
+    },
+    {
+      "word": "バナナ",
+      "reading": "ばなな",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 3000,
+      "meaning": "長くて曲がった黄色い果物。",
+      "hint": "皮をむいて食べる。",
+      "emoji": "🍌"
+    },
+    {
+      "word": "みかん",
+      "reading": "みかん",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 3100,
+      "meaning": "冬によく食べる小さくて丸いオレンジ色の果物。",
+      "hint": "こたつで食べる果物。",
+      "emoji": "🍊"
+    },
+    {
+      "word": "卵",
+      "reading": "たまご",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 2400,
+      "meaning": "鶏が産む楕円形の食べ物。",
+      "hint": "鶏が産む。",
+      "emoji": "🥚"
+    },
+    {
+      "word": "塩",
+      "reading": "しお",
+      "category": "food",
+      "difficulty": 1,
+      "frequency": 2800,
+      "meaning": "料理に味をつける白い粉。",
+      "hint": "海の水に含まれる。",
+      "emoji": "🧂"
+    },
+    {
+      "word": "お茶",
+      "reading": "おちゃ",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 2000,
+      "meaning": "茶の葉から作る飲み物。",
+      "hint": "湯のみで飲む。",
+      "emoji": "🍵"
+    },
+    {
+      "word": "野菜",
+      "reading": "やさい",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 3900,
+      "meaning": "食べるために育てる植物。",
+      "hint": "にんじんやキャベツなど。",
+      "emoji": "🥦"
+    },
+    {
+      "word": "砂糖",
+      "reading": "さとう",
+      "category": "food",
+      "difficulty": 2,
+      "frequency": 3400,
+      "meaning": "甘い味のする白い粉。",
+      "hint": "コーヒーに入れる。"
+    },
+    {
+      "word": "木",
+      "reading": "き",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1400,
+      "meaning": "幹と枝と葉のある大きな植物。",
+      "hint": "幹と枝がある。",
+      "emoji": "🌳"
+    },
+    {
+      "word": "山",
+      "reading": "やま",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 2300,
+      "meaning": "とても高く盛り上がった土地。",
+      "hint": "丘よりずっと高い。",
+      "emoji": "⛰️"
+    },
+    {
+      "word": "川",
+      "reading": "かわ",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1600,
+      "meaning": "海に向かって流れる水の流れ。",
+      "hint": "海へ流れる。"
+    },
+    {
+      "word": "海",
+      "reading": "うみ",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "塩水が広がる大きな場所。",
+      "hint": "塩水と波。",
+      "emoji": "🌊"
+    },
+    {
+      "word": "空",
+      "reading": "そら",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "頭の上に広がる青い空間。",
+      "hint": "上を見ると見える。",
+      "synonyms": [
+        "天空"
+      ]
+    },
+    {
+      "word": "太陽",
+      "reading": "たいよう",
+      "category": "nature",
+      "difficulty": 3,
+      "frequency": 1100,
+      "meaning": "昼間に光と熱をくれる星。",
+      "hint": "東から昇る。",
+      "emoji": "☀️"
+    },
+    {
+      "word": "月",
+      "reading": "つき",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 1900,
+      "meaning": "夜の空で光る天体。",
+      "hint": "夜に光る。",
+      "emoji": "🌙"
+    },
+    {
+      "word": "森",
+      "reading": "もり",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 2500,
+      "meaning": "木がたくさん生えている広い場所。",
+      "hint": "木がたくさん。",
+      "emoji": "🌲"
+    },
+    {
+      "word": "花",
+      "reading": "はな",
+      "category": "nature",
+      "difficulty": 1,
+      "frequency": 2000,
+      "meaning": "植物の色のきれいな部分。",
+      "hint": "色と香りがある。",
+      "emoji": "🌸"
+    },
+    {
+      "word": "雨",
+      "reading": "あめ",
+      "category": "weather",
+      "difficulty": 1,
+      "frequency": 2200,
+      "meaning": "雲から落ちてくる水のしずく。",
+      "hint": "雲から落ちる。",
+      "emoji": "🌧️"
+    },
+    {
+      "word": "風",
+      "reading": "かぜ",
+      "category": "weather",
+      "difficulty": 1,
+      "frequency": 2100,
+      "meaning": "動いている空気。",
+      "hint": "見えないが感じる。",
+      "emoji": "💨"
+    },
+    {
+      "word": "雲",
+      "reading": "くも",
+      "category": "weather",
+      "difficulty": 1,
+      "frequency": 2700,
+      "meaning": "空に浮かぶ水のつぶの集まり。",
+      "hint": "白くて浮かんでいる。",
+      "emoji": "☁️"
+    },
+    {
+      "word": "雪",
+      "reading": "ゆき",
+      "category": "weather",
+      "difficulty": 1,
+      "frequency": 2400,
+      "meaning": "空から降る白くて冷たいもの。",
+      "hint": "冬に降る白いもの。",
+      "emoji": "❄️"
+    },
+    {
+      "word": "目",
+      "reading": "め",
+      "category": "body",
+      "difficulty": 1,
+      "frequency": 900,
+      "meaning": "物を見るための器官。",
+      "hint": "見るために使う。",
+      "emoji": "👁️"
+    },
+    {
+      "word": "頭",
+      "reading": "あたま",
+      "category": "body",
+      "difficulty": 2,
+      "frequency": 1000,
+      "meaning": "体の一番上の部分。",
+      "hint": "体の一番上。"
+    },
+    {
+      "word": "心臓",
+      "reading": "しんぞう",
+      "category": "body",
+      "difficulty": 3,
+      "frequency": 1400,
+      "meaning": "血を体中に送る器官。",
+      "hint": "いつも動いている。",
+      "emoji": "❤️"
+    },
+    {
+      "word": "手",
+      "reading": "て",
+      "category": "body",
+      "difficulty": 1,
+      "frequency": 700,
+      "meaning": "五本の指のある体の部分。",
+      "hint": "指が五本ある。",
+      "emoji": "✋"
+    },
+    {
+      "word": "お腹",
+      "reading": "おなか",
+      "category": "body",
+      "difficulty": 2,
+      "frequency": 2600,
+      "meaning": "食べ物を消化する体の部分。",
+      "hint": "空くと鳴る。"
+    },
+    {
+      "word": "足",
+      "reading": "あし",
+      "category": "body",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "歩くための体の部分。",
+      "hint": "歩くのに使う。",
+      "emoji": "🦶"
+    },
+    {
+      "word": "家",
+      "reading": "いえ",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 500,
+      "meaning": "人が住む建物。",
+      "hint": "私たちが住む所。",
+      "emoji": "🏠",
+      "synonyms": [
+        "住まい"
+      ]
+    },
+    {
+      "word": "ドア",
+      "reading": "どあ",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 1100,
+      "meaning": "部屋に入るために開ける板。",
+      "hint": "開けて入る。",
+      "emoji": "🚪"
+    },
+    {
+      "word": "椅子",
+      "reading": "いす",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 1800,
+      "meaning": "一人が座るための背もたれのある家具。",
+      "hint": "座るもの。",
+      "emoji": "🪑"
+    },
+    {
+      "word": "机",
+      "reading": "つくえ",
+      "category": "home",
+      "difficulty": 2,
+      "frequency": 1200,
+      "meaning": "勉強や仕事をするための平らな家具。",
+      "hint": "その上で書く。"
+    },
+    {
+      "word": "窓",
+      "reading": "まど",
+      "category": "home",
+      "difficulty": 1,
+      "frequency": 1500,
+      "meaning": "壁にあるガラスの開口部。",
+      "hint": "壁のガラス。",
+      "emoji": "🪟"
+    },
+    {
+      "word": "台所",
+      "reading": "だいどころ",
+      "category": "home",
+      "difficulty": 3,
+      "frequency": 2000,
+      "meaning": "料理をする部屋。",
+      "hint": "料理をする所。"
+    },
+    {
+      "word": "本",
+      "reading": "ほん",
+      "category": "school",
+      "difficulty": 1,
+      "frequency": 700,
+      "meaning": "印刷されたページをとじたもの。",
+      "hint": "読むもの。",
+      "emoji": "📖"
+    },
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "category": "school",
+      "difficulty": 3,
+      "frequency": 1300,
+      "meaning": "子どもが勉強する所。",
+      "hint": "子どもが勉強しに行く。",
+      "emoji": "🏫"
+    },
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "category": "school",
+      "difficulty": 3,
+      "frequency": 1900,
+      "meaning": "人に物を教える人。",
+      "hint": "教室で教える。"
+    },
+    {
+      "word": "生徒",
+      "reading": "せいと",
+      "category": "school",
+      "difficulty": 2,
+      "frequency": 1600,
+      "meaning": "学校で勉強する人。",
+      "hint": "教室に座っている。"
+    },
+    {
+      "word": "鉛筆",
+      "reading": "えんぴつ",
+      "category": "school",
+      "difficulty": 3,
+      "frequency": 3400,
+      "meaning": "消しゴムで消せる書く道具。",
+      "hint": "書いた字を消せる。",
+      "emoji": "✏️"
+    },
+    {
+      "word": "言葉",
+      "reading": "ことば",
+      "category": "school",
+      "difficulty": 2,
+      "frequency": 2300,
+      "meaning": "人が考えを伝えるために使う音や文字。",
+      "hint": "日本語も英語もこれ。",
+      "synonyms": [
+        "言語"
+      ]
+    },
+    {
+      "word": "母",
+      "reading": "はは",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 600,
+      "meaning": "女性の親。",
+      "hint": "あなたの女性の親。"
+    },
+    {
+      "word": "父",
+      "reading": "ちち",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 700,
+      "meaning": "男性の親。",
+      "hint": "あなたの男性の親。"
+    },
+    {
+      "word": "兄",
+      "reading": "あに",
+      "category": "family",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "年上の男のきょうだい。",
+      "hint": "年上の男のきょうだい。"
+    },
+    {
+      "word": "妹",
+      "reading": "いもうと",
+      "category": "family",
+      "difficulty": 3,
+      "frequency": 1300,
+      "meaning": "年下の女のきょうだい。",
+      "hint": "年下の女のきょうだい。"
+    },
+    {
+      "word": "息子",
+      "reading": "むすこ",
+      "category": "family",
+      "difficulty": 2,
+      "frequency": 800,
+      "meaning": "男の子ども。",
+      "hint": "親の男の子。"
+    },
+    {
+      "word": "娘",
+      "reading": "むすめ",
+      "category": "family",
+      "difficulty": 2,
+      "frequency": 900,
+      "meaning": "女の子ども。",
+      "hint": "親の女の子。"
+    },
+    {
+      "word": "赤",
+      "reading": "あか",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 1400,
+      "meaning": "血の色。",
+      "hint": "血の色。",
+      "emoji": "🔴"
+    },
+    {
+      "word": "青",
+      "reading": "あお",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 1500,
+      "meaning": "晴れた空の色。",
+      "hint": "空の色。",
+      "emoji": "🔵"
+    },
+    {
+      "word": "緑",
+      "reading": "みどり",
+      "category": "colors",
+      "difficulty": 2,
+      "frequency": 1600,
+      "meaning": "葉っぱの色。",
+      "hint": "葉っぱの色。",
+      "emoji": "🟢"
+    },
+    {
+      "word": "黄色",
+      "reading": "きいろ",
+      "category": "colors",
+      "difficulty": 2,
+      "frequency": 2400,
+      "meaning": "レモンの色。",
+      "hint": "レモンの色。",
+      "emoji": "🟡"
+    },
+    {
+      "word": "白",
+      "reading": "しろ",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 1300,
+      "meaning": "牛乳の色。",
+      "hint": "牛乳の色。",
+      "emoji": "⚪"
+    },
+    {
+      "word": "黒",
+      "reading": "くろ",
+      "category": "colors",
+      "difficulty": 1,
+      "frequency": 1200,
+      "meaning": "暗い夜の色。",
+      "hint": "夜の色。",
+      "emoji": "⚫"
+    },
+    {
+      "word": "朝",
+      "reading": "あさ",
+      "category": "time",
+      "difficulty": 1,
+      "frequency": 900,
+      "meaning": "一日の始まり、昼より前の時間。",
+      "hint": "日が昇る時間。",
+      "emoji": "🌅"
+    },
+    {
+      "word": "夜",
+      "reading": "よる",
+      "category": "time",
+      "difficulty": 1,
+      "frequency": 800,
+      "meaning": "日が沈んだ後の暗い時間。",
+      "hint": "月が見える時間。",
+      "emoji": "🌃"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "category": "time",
+      "difficulty": 2,
+      "frequency": 500,
+      "meaning": "今過ごしているこの日。",
+      "hint": "昨日の次、明日の前。"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "category": "time",
+      "difficulty": 2,
+      "frequency": 700,
+      "meaning": "今日の次の日。",
+      "hint": "今日の次の日。"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "category": "time",
+      "difficulty": 2,
+      "frequency": 400,
+      "meaning": "時の流れ、または六十分のこと。",
+      "hint": "時計で計る。",
+      "emoji": "🕒"
+    },
+    {
+      "word": "電車",
+      "reading": "でんしゃ",
+      "category": "travel",
+      "difficulty": 2,
+      "frequency": 2000,
+      "meaning": "線路の上を走る長い乗り物。",
+      "hint": "線路の上を走る。",
+      "emoji": "🚆"
+    },
+    {
+      "word": "道",
+      "reading": "みち",
+      "category": "city",
+      "difficulty": 1,
+      "frequency": 1100,
+      "meaning": "車や人が通る場所。",
+      "hint": "車や人が通る。",
+      "emoji": "🛣️",
+      "synonyms": [
+        "道路"
+      ]
+    },
+    {
+      "word": "店",
+      "reading": "みせ",
+      "category": "city",
+      "difficulty": 1,
+      "frequency": 1900,
+      "meaning": "物を売る場所。",
+      "hint": "買い物をする所。",
+      "emoji": "🏪",
+      "synonyms": [
+        "商店"
+      ]
+    },
+    {
+      "word": "駅",
+      "reading": "えき",
+      "category": "travel",
+      "difficulty": 1,
+      "frequency": 900,
+      "meaning": "電車が止まり、人が乗り降りする場所。",
+      "hint": "電車に乗る所。",
+      "emoji": "🚉"
+    },
+    {
+      "word": "空港",
+      "reading": "くうこう",
+      "category": "travel",
+      "difficulty": 3,
+      "frequency": 3300,
+      "meaning": "飛行機が離着陸する場所。",
+      "hint": "飛行機が降りる所。",
+      "emoji": "✈️"
+    },
+    {
+      "word": "嬉しい",
+      "reading": "うれしい",
+      "category": "emotions",
+      "difficulty": 3,
+      "frequency": 1200,
+      "meaning": "喜びを感じるようす。",
+      "hint": "悲しいの反対。",
+      "synonyms": [
+        "楽しい"
+      ],
+      "antonyms": [
+        "悲しい"
+      ],
+      "emoji": "😊"
+    },
+    {
+      "word": "悲しい",
+      "reading": "かなしい",
+      "category": "emotions",
+      "difficulty": 3,
+      "frequency": 1700,
+      "meaning": "つらく、泣きたくなるようす。",
+      "hint": "嬉しいの反対。",
+      "synonyms": [
+        "切ない"
+      ],
+      "antonyms": [
+        "嬉しい",
+        "楽しい"
+      ],
+      "emoji": "😢"
+    },
+    {
+      "word": "大きい",
+      "reading": "おおきい",
+      "category": "qualities",
+      "difficulty": 3,
+      "frequency": 500,
+      "meaning": "サイズが大であるようす。",
+      "hint": "小さいの反対。",
+      "antonyms": [
+        "小さい"
+      ]
+    },
+    {
+      "word": "小さい",
+      "reading": "ちいさい",
+      "category": "qualities",
+      "difficulty": 3,
+      "frequency": 700,
+      "meaning": "サイズが小であるようす。",
+      "hint": "大きいの反対。",
+      "antonyms": [
+        "大きい"
+      ]
+    },
+    {
+      "word": "速い",
+      "reading": "はやい",
+      "category": "qualities",
+      "difficulty": 2,
+      "frequency": 1300,
+      "meaning": "動きにスピードがあるようす。",
+      "hint": "遅いの反対。",
+      "antonyms": [
+        "遅い"
+      ]
+    },
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "category": "qualities",
+      "difficulty": 4,
+      "frequency": 600,
+      "meaning": "できたばかりであるようす。",
+      "hint": "古いの反対。",
+      "antonyms": [
+        "古い"
+      ]
+    },
+    {
+      "word": "古い",
+      "reading": "ふるい",
+      "category": "qualities",
+      "difficulty": 2,
+      "frequency": 1100,
+      "meaning": "長い時間がたっているようす。",
+      "hint": "新しいの反対。",
+      "antonyms": [
+        "新しい"
+      ]
+    }
+  ]
+}

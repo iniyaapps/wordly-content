@@ -1,0 +1,50 @@
+{
+  "code": "ja",
+  "name": "Japanese",
+  "nativeName": "日本語",
+  "direction": "ltr",
+  "scriptProfile": "mixedJapanese",
+  "contentStatus": "ready",
+  "contentVersion": 1,
+  "wordCount": 60,
+  "display": {
+    "uppercase": false,
+    "fontScale": 1.15
+  },
+  "letterSet": "",
+  "distractorSource": "corpus",
+  "enabledTypes": [
+    "unscramble",
+    "missingLetter",
+    "guessTheWord",
+    "multipleChoice",
+    "wordMeaning",
+    "synonym",
+    "antonym",
+    "categoryId",
+    "wordOrdering",
+    "emojiClue",
+    "completeTheWord",
+    "wordMatching",
+    "definitionChallenge",
+    "speedChallenge"
+  ],
+  "disabledTypes": [
+    "findWrongLetter"
+  ],
+  "disabledReason": {
+    "findWrongLetter": "A substituted kana usually still reads as a plausible word fragment; the puzzle is not reliably solvable without a curated pair list."
+  },
+  "tileField": "reading",
+  "params": {
+    "minGraphemes": 2,
+    "maxGraphemes": 7,
+    "choiceCounts": { "easy": 3, "medium": 4, "hard": 4, "expert": 5 },
+    "hintsPerLevel": { "easy": 2, "medium": 2, "hard": 1, "expert": 1 },
+    "timeLimitSeconds": { "easy": 0, "medium": 0, "hard": 0, "expert": 50 },
+    "speedChallengeSeconds": 35,
+    "maxUnscrambleGraphemes": 6,
+    "distractorSimilarity": { "easy": 0.2, "medium": 0.45, "hard": 0.7, "expert": 0.85 }
+  },
+  "notes": "Every entry carries `word` (the normal written form, usually kanji) and `reading` (hiragana). tileField=reading tells the engine that all letter-level puzzles (unscramble, missing letter, complete the word, word ordering) operate on the HIRAGANA reading, one kana per tile — kanji are never split. Choice-style puzzles (multiple choice, meaning, category, emoji) show `word`. Small kana (ゃゅょっ) are their own tiles, which is how Japanese learners already see them in kana drills."
+}
